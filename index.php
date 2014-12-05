@@ -14,6 +14,8 @@ and open the template in the editor.
       
         //mi proyecto
         //domingo
+		
+		echo "Hola compadre";
         
        ?>
     </body>
